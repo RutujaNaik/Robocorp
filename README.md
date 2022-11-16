@@ -10,9 +10,3 @@ Some notes and issues that came up during the course:
 With the hardcoded paths to the vault (and the venv settings), the exam constraint ``Verify that it is possible to run your robot without manual setup`` might not be met. However, as I cannot bypass the absolute environment requirements even for the vault file, the test will not work out of the box - unless you change these settings.
 
 All other file names, paths etc have been stored as parameters in the file. Sorry mates - I mainly use Robot Framework for backend API testing, so some approaches in the test might be a little bit clumsy. But the test itself works fine.
-
-Improvement suggestions:
-
-I'd like to see infos on how the program can enforce the user to enter some data when using rpa.dialogs and input boxes. WUKS loops cannot be the solution here? I don't detect this potential issue in the program so this is definitely an "out of scope".
-
-Thanks for the challenge - it was fun!
