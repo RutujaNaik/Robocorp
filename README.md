@@ -1,4 +1,4 @@
-# robocorp-certification-level-ii
+# robocorp level - 2
 RoboCorp Certification Level II
 
 Some notes and issues that came up during the course:
